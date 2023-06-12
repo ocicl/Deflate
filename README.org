@@ -1,0 +1,10 @@
+* Deflate
+
+Native Deflate Decompression for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/pmai/Deflate.git   |
+| commit  | 7eb8280  |
+| systems | Deflate |
+|---------+-------------------------------------------|
+
