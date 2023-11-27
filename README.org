@@ -4,6 +4,6 @@ Native Deflate Decompression for Common Lisp
 
 |---------+-----------------------------------------|
 | source  | git:https://github.com/pmai/Deflate.git |
-| commit  | 7a3f243                                 |
+| commit  | 3c6d7a7                                 |
 | systems | deflate                                 |
 |---------+-----------------------------------------|
